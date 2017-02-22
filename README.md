@@ -47,13 +47,13 @@ The concepts this project will cover are
 ### Review
 ####
 * If all went well you should be able to open up your index.html page and chat with those who also finished. If you got this far, great job! Review angular promises and $http. They're fundamental to any apps built with Angular.
-
+<!--
 ### Additional HTTP calls
 ####
 * The server also allows users to send and receive cookies from HTTP requests.
 * Add a new POST request method to your service called postCookie URL:"https://practiceapi.devmounta.in/api/cookies" to share a new cookie with your fellow coders.
 * Add a new GET request method to your service called getCookies URL:"https://practiceapi.devmounta.in/api/cookies" to see what cookies have been shared.
-
+ -->
 
 ### Add Some Flavor
 ####
